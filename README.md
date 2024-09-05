@@ -2,7 +2,7 @@
 
 ## Introduction
 This project aims to explore the intricate landscape of cardiovascular health by analyzing a comprehensive dataset on heart diseases, sourced from Kaggle. The dataset includes demographic factors and clinical measurements such as age, gender, chest pain type, blood pressure, cholesterol levels, and more. The objective is to understand the relationships between these variables and the presence or absence of heart disease, which can provide insights into cardiovascular health and help build predictive models.
-<img src= "https://github.com/user-attachments/assets/e18724e1-4e66-4dfc-938a-7678b62a6e50" alt="Heart Disease Image" width="500"/>
+<img src= "https://github.com/user-attachments/assets/e18724e1-4e66-4dfc-938a-7678b62a6e50" alt="Heart Disease Image" width="450"/>
 <img src= "https://github.com/user-attachments/assets/d4d5754d-63c7-40e5-b8c6-e9282c2f4dc4" alt="Factors of Heart disease" width="400"/>
 
 ## Dataset Link: 
